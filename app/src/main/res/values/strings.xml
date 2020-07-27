@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ubicacion</string>
+    <string name="acces_token">Ingrese aqui su api key</string>
+</resources>
