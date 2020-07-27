@@ -10,4 +10,4 @@ Observación:
   - Ecribir la Apikey  en : res>values> strings>acces_token
   - El botón "back"  se desactiva una vez que haya empezado a ejecutarse el "progressdialog"  para  evitar
   interrupcines durante la determinacion de la ubicación. 
-  - En la primera ejecución tarda más de 5 minutos aproximadamente en determinar la posición (tengaaciencia :) )
+  - En la primera ejecución tarda más de 5 minutos aproximadamente en determinar la posición (tenga paciencia :) )
